@@ -7,7 +7,7 @@ public class UserService {
     private static boolean isAdminLoggedIn = false;
     private static String adminUsername = "admin";
     private static String adminPassword = "admin123";
-    private static String adminPhoneNumber = "7989393735";
+    private static String adminPhoneNumber = "9441234567";
 
     public static void register(Scanner sc) {
         System.out.println(AnsiColors.BOLD + AnsiColors.CYAN + "\n--- USER REGISTRATION ---" + AnsiColors.RESET);
