@@ -2,7 +2,7 @@
 
 _A console-based Java application to manage 2-wheeler and 4-wheeler parking slot reservations with real-time booking, check-in/out, overstay tracking, and admin controls._
 
-![Smart Parking Slot Booking System](https://github.com/kurmaviswakanth/Breast-Cancer-Risk-Prediction/blob/main/image.jpg)
+![Smart Parking Slot Booking System](https://github.com/kurmaviswakanth/SmartParkingSystem/blob/main/Smart%20Parking%20Slot%20Booking%20System.jpg?raw=true)
 
 ---
 
