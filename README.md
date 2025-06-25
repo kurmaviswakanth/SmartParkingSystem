@@ -58,6 +58,7 @@ com/
     ├── Booking.java             # Booking data
     ├── Lot.java                 # Lot properties & pricing
     ├── DataStore.java           # Shared in-memory storage
+    ├── Rules.java               # Rules
     └── AnsiColors.java          # Console formatting
 ```
 ## ⚙️ Requirements
