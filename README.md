@@ -155,5 +155,4 @@ While the current version operates in-memory and through the terminal, it lays a
 
 With further development, it can evolve into a scalable parking management solution for smart cities and public infrastructure.
 
----
 
